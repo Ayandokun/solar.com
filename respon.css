@@ -1,0 +1,15 @@
+#container {
+    background-color: pink;
+    padding: 3em;
+    display: flex;
+    gap: 0 20px;
+}
+
+.flex-item {
+    background-color: #fff;
+    padding: 1em;
+    text-align: justify;
+    /* font-family: monospace; */
+}
+
+@media(600px)
